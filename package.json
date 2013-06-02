@@ -1,0 +1,16 @@
+{
+  "author": "buzzdecafe <m_hur@yahoo.com> (http://buzzdecafe.com)",
+  "name": "SchemeJS",
+  "description": "cons'ed pairs in Javascript",
+  "version": "0.0.1",
+  "homepage": "https://www.github.com/buzzdecafe/SchemeJS",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/buzzdecafe/SchemeJS.git"
+  },
+  "main": "lib/sokuza.js",
+  "scripts": {
+    "test": "jasmine-node --verbose spec"
+  },
+}

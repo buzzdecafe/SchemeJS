@@ -9,7 +9,7 @@
     "type": "git",
     "url": "git://github.com/buzzdecafe/SchemeJS.git"
   },
-  "main": "lib/sokuza.js",
+  "main": "lib/Scheme.js",
   "scripts": {
     "test": "jasmine-node --verbose spec"
   },
